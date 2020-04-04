@@ -35,7 +35,7 @@
     "dotenv": "^7.0.0",
     "express": "^4.16.4",
     "inquirer": "^6.3.1",
-    "mongoose": "^5.5.4",
+    "mongoose": "^5.7.5",
     "ngrok": "^3.1.1",
     "superagent": "^5.0.4"
   }
